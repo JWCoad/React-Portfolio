@@ -6,10 +6,10 @@ import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import "./App.css";
-// import Footer from "./components/Footer";
-// import HomePage from "./pages/HomePage";
-// import AboutPage from "./pages/AboutPage";
-// import ContactPage from "./pages/ContactPage";
+import Footer from "./components/Footer";
+import HomePage from "./pages/HomePage";
+import AboutPage from "./pages/AboutPage";
+import ContactPage from "./pages/ContactPage";
 
 class App extends React.Component {
   constructor(props) {
