@@ -20,9 +20,14 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
+<<<<<<< HEAD
     "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
+=======
+    "deploy": "gh-pages -d build",
+>>>>>>> parent of bc0c3a3 (deployed)
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
