@@ -1,6 +1,6 @@
 # React Portfolio
 
-### [Repo](https://github.com/JWCoad/React-Portfolio
+### [Repo](https://github.com/JWCoad/React-Portfolio)
 
 ### Screenshot of deployed app ![Screenshot](/src/assets/images/demo.JPG)
 
