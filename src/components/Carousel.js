@@ -2,9 +2,9 @@ import React from "react";
 
 import Card from "../components/Card";
 
-import project1 from "../assets/images/screenshot1.JPG";
-import project2 from "../assets/images/screenshot2.JPG";
-import project3 from "../assets/images/screenshot3.JPG";
+import project1 from "../assets/images/screenshot.JPG";
+import project2 from "../assets/images/screenshot1.JPG";
+import project3 from "../assets/images/screenshot2.png";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 

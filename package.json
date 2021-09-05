@@ -12,7 +12,10 @@
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^4.0.3",
+    "react-spring": "^8.0.27",
+    "reactjs": "^1.0.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -41,5 +44,8 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "peerDependencies": {
+    "react-spring": "^8.0.27"
   }
 }
